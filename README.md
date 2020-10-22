@@ -25,7 +25,3 @@ The AutoML framework made it possible with very low effort to find a better perf
 
 ## Future work
 In the near future, it would be a good idea to use the scaling method and the LightGBM framework and do a more complete hyperparameter search with HyperDrive. That could potentially lead to even better metrics for us to take the model to production, which would also be effortless with Azure ML.
-
-## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
